@@ -1,3 +1,6 @@
 I am a data scientist with an MSc from UCL and quantitative experience working as a mathematician. My education and work experience have given me a strong appreciation of the power of quantitative methods and mathematical models to understand complex situations. I am eager to apply my skills and knowledge to make a difference by solving challenging problems and helping to make better decisions.
 
+Apart from my work experience and education, I have also worked on Kaggle competitions and created data visualisations to practice and build on my data science skills and knowledge.
 
+* Kaggle: Notebooks with ML models for Kaggle competitions and datasets (https://github.com/amkil728/kaggle)
+* Tableau: Data visualisations in Tableau (https://public.tableau.com/app/profile/aayush.malik1729/vizzes)
